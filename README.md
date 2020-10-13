@@ -16,4 +16,4 @@ node main
 ```
 
 to enable google calendar, add credentials to keys directory
-see here[https://developers.google.com/calendar/quickstart/nodejs] for more information
+see [here](https://developers.google.com/calendar/quickstart/nodejs) for more information
